@@ -1,3 +1,5 @@
+# FRAP-analysis-macro
+
 FRAP analysis macro v1.0.0
 http://dx.doi.org/10.5281/zenodo.376619
 
